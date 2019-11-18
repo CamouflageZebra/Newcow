@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8cee998c-c710-4e8d-ba45-71e46fb8c548",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ropeCow3": {
+      "ver": "1.0.4",
+      "uuid": "b636b04d-8dbe-4a95-bedf-c26b3e2720fb",
+      "rawTextureUuid": "8cee998c-c710-4e8d-ba45-71e46fb8c548",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 653,
+      "rawWidth": 204,
+      "rawHeight": 653,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
